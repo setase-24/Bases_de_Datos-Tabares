@@ -8,7 +8,7 @@ en un esquema relacional basado en tablas.
 Se emplea el modelo relacional, el cual organiza la información en:
 - Tablas
 - Claves primarias (PK)
-- Claves foráneas (FK)
+- Claves foráneas (FK) (Ajenas mencionadas en el video)
 
 ## 3. Reglas principales de transformación
 
