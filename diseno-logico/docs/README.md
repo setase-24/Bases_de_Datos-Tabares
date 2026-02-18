@@ -5,7 +5,7 @@ El diseño lógico transforma el modelo conceptual (Diagrama Entidad–Relación
 en un esquema relacional basado en tablas.
 
 ## 2. Modelo utilizado
-Se emplea el modelo relacional, el cual organiza la información en:
+Empleamos el modelo relacional, el cual organiza la información en:
 - Tablas
 - Claves primarias (PK)
 - Claves foráneas (FK) (Ajenas mencionadas en el video)
@@ -31,6 +31,6 @@ Se crea una tabla intermedia que contiene:
 - Una clave primaria compuesta
 
 ## 4. Conclusión
-El diseño lógico permite mantener coherencia entre las necesidades de información
-y la estructura final de la base de datos, evitando diseños improvisados.
+El diseño lógico nos permite mantener coherencia entre la información
+y la estructura final de la base de datos.
 
